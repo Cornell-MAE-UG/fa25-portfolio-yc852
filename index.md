@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Ya Chi Cheng
 ---
 
 ## About Me
@@ -8,9 +8,8 @@ title: <Your Name>
 
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
- 
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a Mechanical Engineering M.Eng. candidate at Cornell University (B.S. Dec 2025, M.Eng. June 2026) with hands-on experience in aerodynamic design, wind tunnel testing, MATLAB modeling, and industrial research. Passionate about turning analytical models into real hardware—from 3D-printed wind turbine blades to SolidWorks valve components and Arduino robotics.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Experienced research assistant at Inline Industry (3 summers) conducting valve performance analysis and contributing to technical reports on reliability and materials. Current TA for Introduction to Aeronautics, providing feedback on aerodynamics and flight fundamentals. Skilled in MATLAB blade-element modeling, SolidWorks CAD, Python/Java, and experimental data analysis.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a>, <a href="{{ "/cv/" | relative_url }}">CV</a>, and <a href="mailto:yc852@cornell.edu">get in touch</a>.
