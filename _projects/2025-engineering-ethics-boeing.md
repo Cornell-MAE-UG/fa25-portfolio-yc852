@@ -6,7 +6,8 @@ technologies: [Engineering Ethics, Aerospace Analysis, ASME Canons]
 image: /assets/images/737-max-analysis.png
 ---
 
-As part of MAE-4300, this project analyzed ethical failures in Boeing's 737 MAX development, focusing on the MCAS system through weekly worksheets. The work identified key issues like downplaying MCAS importance, omitting it from documentation, and prioritizing competition over safety. Deep dives into facts, assumptions, and ASME ethical principles highlighted conflicts between public safety and corporate pressures.
+## Overall Summary:
+This MAE-4300 project conducts an ethical analysis of Boeing’s MCAS-related decisions in the 737 MAX program. Using ASME Canons as the ethical framework, weekly worksheets identify how safety concerns were downplayed, documentation and training were incomplete, and competitive pressures influenced timelines. The analysis centers on five core issues: downplaying MCAS’s importance, avoiding accountability after crashes, overreliance on FAA certification, omitting MCAS from documentation, and prioritizing market competition over safety. Through careful fact gathering, explicit assumptions, and a structured assessment of facts against canonical duties, the study demonstrates that public safety should have taken precedence over training costs, corporate reputation, and regulatory convenience. The report concludes with concrete resolutions that reaffirm engineers’ obligations to truth, transparency, and public welfare, and recommends independent safety review and robust disclosure practices to prevent similar ethical breaches in the future.
 
 ## Key Ethical Issues
 Five core issues were narrowed from ten initial questions:
