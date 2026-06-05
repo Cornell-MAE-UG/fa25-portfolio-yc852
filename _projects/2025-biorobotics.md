@@ -32,7 +32,7 @@ My contributions focused on the integration of mechanical design, control logic,
 
 ## Selected Figures
 
-- Front view of the fully assembled arm and claw CAD model.
+- Front view of the fully assembled arm and claw CAD model. test
 
   <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/biorobotics-arm-front.png"
        alt="Biorobotics arm front CAD"
