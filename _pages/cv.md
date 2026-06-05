@@ -22,7 +22,7 @@ Mechanical engineering M.Eng. candidate with hands-on experience in aerodynamic 
 
 - **Cornell University**, Ithaca, NY  
   *Master of Engineering in Mechanical Engineering*  
-  Expected: June 2026  
+  June 2026  
 
 - **Cornell University**, Ithaca, NY  
   *Bachelor of Science in Mechanical Engineering*  
@@ -88,13 +88,13 @@ Mechanical engineering M.Eng. candidate with hands-on experience in aerodynamic 
 
 #### Leadership & Professional Development
 
-- **CU EMPower Mentor** · Cornell University · Aug 2021–Present  
+- **CU EMPower Mentor** · Cornell University · Aug 2021–2025
   Mentored incoming engineering students on academics and campus life  
 
-- **Ryan Scholars Program** · Cornell University · Aug 2021–Present  
+- **Ryan Scholars Program** · Cornell University · Aug 2021–2026 
   Engineering leadership and teamwork curriculum  
 
-- **Thrive Scholars (SCS Noonan Scholars)** · May 2019–Present  
+- **Thrive Scholars (SCS Noonan Scholars)** · May 2019–2025  
   6-year college access program (1 of 110 selected); workshops on analytics, communication, professional development  
 
 ---
