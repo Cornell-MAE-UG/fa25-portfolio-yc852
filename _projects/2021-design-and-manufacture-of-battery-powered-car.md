@@ -3,7 +3,7 @@ layout: project
 title: Battery Powered Car
 description: Design, manufacture, and testing of a battery-powered competition car optimized for speed and pulling force
 technologies: CAD, Laser Cutting, Soldering, MATLAB/Python for calculations
-image: assets/images/battery-powered-car-cad.png
+image: assets/images/battery-car-cad.png
 ---
 
 ## Battery Powered Car Project Overview
