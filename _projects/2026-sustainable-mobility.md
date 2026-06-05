@@ -49,7 +49,7 @@ My contributions focused on mechanical design, CAD development, and structural a
 - Reconstructed module CAD with simplified geometry and joint details.
 
 
-  <img src="/fa25-portfolio-yc852/assets/images/sustainable-mobility-module-cad.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/sustainable-mobility-module-cad.png"
        alt="Sustainable Mobility module CAD"
        style="max-width: 350px; height: auto;">
 
@@ -57,7 +57,7 @@ My contributions focused on mechanical design, CAD development, and structural a
 - Base assembly with module attachment and fastener layout.
 
 
-  <img src="/fa25-portfolio-yc852/assets/images/sustainable-mobility-base.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/sustainable-mobility-base.png"
        alt="Sustainable Mobility base assembly"
        style="max-width: 350px; height: auto;">
 
@@ -65,7 +65,7 @@ My contributions focused on mechanical design, CAD development, and structural a
 - Electrical cutout and wiring path layout for integrated LEDs.
 
 
-  <img src="/fa25-portfolio-yc852/assets/images/sustainable-mobility-electrical.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/sustainable-mobility-electrical.png"
        alt="Sustainable Mobility electrical cutout"
        style="max-width: 350px; height: auto;">
 
@@ -73,6 +73,6 @@ My contributions focused on mechanical design, CAD development, and structural a
 - Finite element analysis of the shelter structure under loading.
 
 
-  <img src="/fa25-portfolio-yc852/assets/images/sustainable-mobility-fea.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/sustainable-mobility-fea.png"
        alt="Sustainable Mobility finite element analysis"
        style="max-width: 350px; height: auto;">

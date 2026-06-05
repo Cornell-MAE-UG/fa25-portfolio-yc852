@@ -26,12 +26,12 @@ Because this was an individual project, all of the CAD modeling, feature creatio
 
 - Final CAD model of the Apple Watch and sports band assembly.
 
-  <img src="/fa25-portfolio-yc852/assets/images/apple-watch-final-model.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/apple-watch-final-model.png"
        alt="Apple Watch CAD model"
        style="max-width: 350px; height: auto;">
 
 - Back view of the Apple Watch.
 
-  <img src="/fa25-portfolio-yc852/assets/images/apple-watch-back-view.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/apple-watch-back-view.png"
        alt="Apple Watch back view"
        style="max-width: 350px; height: auto;">

@@ -26,16 +26,16 @@ My main contributions were in modeling, test planning, and data analysis. I impl
 
 - CAD rendering of the three‑bladed NACA 4412 rotor showing spanwise taper and twist. 
 
-  <img src="/fa25-portfolio-yc852/assets/images/turbine-blade-cad.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/turbine-blade-cad.png"
        alt="Turbine blade CAD"
        style="max-width: 350px; height: auto;">
 - Chord and pitch versus radius plot highlighting the near‑constant angle‑of‑attack design.
 
-  <img src="/fa25-portfolio-yc852/assets/images/blade-chord-pitch.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/blade-chord-pitch.png"
        alt="Blade chord and pitch"
        style="max-width: 350px; height: auto;">
 - Representative power‑versus‑RPM curve with probabilistic weighting at mid‑range wind speed.
 
-  <img src="/fa25-portfolio-yc852/assets/images/power-curves.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/power-curves.png"
        alt="Power curves"
        style="max-width: 350px; height: auto;">

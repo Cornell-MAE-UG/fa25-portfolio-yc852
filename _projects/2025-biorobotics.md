@@ -34,42 +34,42 @@ My contributions focused on the integration of mechanical design, control logic,
 
 - Front view of the fully assembled arm and claw CAD model.
 
-  <img src="/fa25-portfolio-yc852/assets/images/biorobotics-arm-front.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/biorobotics-arm-front.png"
        alt="Biorobotics arm front CAD"
        style="max-width: 350px; height: auto;">
 
 - Top view of the fully assembled arm and claw CAD model.
 
-  <img src="/fa25-portfolio-yc852/assets/images/biorobotics-arm-top.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/biorobotics-arm-top.png"
        alt="Biorobotics arm top CAD"
        style="max-width: 350px; height: auto;">
 
 - Back view of the fully assembled arm and claw CAD model.
 
-  <img src="/fa25-portfolio-yc852/assets/images/biorobotics-arm-back.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/biorobotics-arm-back.png"
        alt="Biorobotics arm back CAD"
        style="max-width: 350px; height: auto;">
 
 - Front view of the CAD model for the herb storage box.
 
-  <img src="/fa25-portfolio-yc852/assets/images/biorobotics-herb-box-front.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/biorobotics-herb-box-front.png"
        alt="Biorobotics herb box front CAD"
        style="max-width: 350px; height: auto;">
 
 - Top view of the CAD model for the herb storage box.
 
-  <img src="/fa25-portfolio-yc852/assets/images/biorobotics-herb-box-top.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/biorobotics-herb-box-top.png"
        alt="Biorobotics herb box top CAD"
        style="max-width: 350px; height: auto;">
 
 - Front view of the CAD model for the seed storage box.
 
-  <img src="/fa25-portfolio-yc852/assets/images/biorobotics-seed-box-front.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/biorobotics-seed-box-front.png"
        alt="Biorobotics seed box front CAD"
        style="max-width: 350px; height: auto;">
 
 - Side view of the CAD model for the seed storage box.
 
-  <img src="/fa25-portfolio-yc852/assets/images/biorobotics-seed-box-side.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/biorobotics-seed-box-side.png"
        alt="Biorobotics seed box side CAD"
        style="max-width: 350px; height: auto;">

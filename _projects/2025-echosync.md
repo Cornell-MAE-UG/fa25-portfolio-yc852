@@ -49,7 +49,7 @@ My contributions focused on human-centered design, systems thinking, and technic
 - Concept sketch of the EchoSync safety bracelet.
 
 
-  <img src="/fa25-portfolio-yc852/assets/images/echosync-concept-sketch.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/echosync-concept-sketch.png"
        alt="EchoSync concept sketch"
        style="max-width: 350px; height: auto;">
 
@@ -57,7 +57,7 @@ My contributions focused on human-centered design, systems thinking, and technic
 - CAD model of the final bracelet prototype.
 
 
-  <img src="/fa25-portfolio-yc852/assets/images/echosync-cad.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/echosync-cad.png"
        alt="EchoSync CAD model"
        style="max-width: 350px; height: auto;">
 
@@ -65,7 +65,7 @@ My contributions focused on human-centered design, systems thinking, and technic
 - Bracelets with interchangeable bands.
 
 
-  <img src="/fa25-portfolio-yc852/assets/images/echosync-bands.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/echosync-bands.png"
        alt="EchoSync bracelet bands"
        style="max-width: 350px; height: auto;">
 
@@ -73,6 +73,6 @@ My contributions focused on human-centered design, systems thinking, and technic
 - Finite element analysis of the bracelet housing under activation loading.
 
 
-  <img src="/fa25-portfolio-yc852/assets/images/echosync-fea.png"
+  <img src="/fa25-portfolio-yc852/fa25-portfolio-yc852/assets/images/echosync-fea.png"
        alt="EchoSync finite element analysis"
        style="max-width: 350px; height: auto;">
