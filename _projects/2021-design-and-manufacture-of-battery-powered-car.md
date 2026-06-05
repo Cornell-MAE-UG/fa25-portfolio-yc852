@@ -30,18 +30,18 @@ My main contributions were in design development, calculations, and report prepa
 
 - Final CAD views of the completed battery-powered car, including the right, isometric, and back views shown in the report, along with the final competition photo.
 
-  <img src="/fa25-portfolio-yc852/assets/images/battery-car-cad-right-view.png"
-       alt="Battery powered car right view"
-       style="max-width: 350px; height: auto;">
+<img src="{{ '/assets/images/battery-car-cad-right-view.png' | relative_url }}"
+     alt="Battery powered car right view"
+     style="max-width: 350px; height: auto;">
 
-  <img src="/fa25-portfolio-yc852/assets/images/battery-car-cad-isometric-view.png"
-       alt="Battery powered car isometric view"
-       style="max-width: 350px; height: auto;">
+<img src="{{ '/assets/images/battery-car-cad-isometric-view.png' | relative_url }}"
+     alt="Battery powered car isometric view"
+     style="max-width: 350px; height: auto;">
 
-  <img src="/fa25-portfolio-yc852/assets/images/battery-car-cad-back-view.png"
-       alt="Battery powered car back view"
-       style="max-width: 350px; height: auto;">
+<img src="{{ '/assets/images/battery-car-cad-back-view.png' | relative_url }}"
+     alt="Battery powered car back view"
+     style="max-width: 350px; height: auto;">
 
-  <img src="/fa25-portfolio-yc852/assets/images/battery-car-final-competition.png"
-       alt="Battery powered car competition photo"
-       style="max-width: 350px; height: auto;">
+<img src="{{ '/assets/images/battery-car-final-competition.png' | relative_url }}"
+     alt="Battery powered car competition photo"
+     style="max-width: 350px; height: auto;">
